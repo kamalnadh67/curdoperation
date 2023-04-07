@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(41, 18, 70);
+  }
+  
+  tbody {
+    background-color: #751e1e;
+    font-size: 14px;
+    font-weight: normal;
+    color: #333333;
+  }
+  thead
+  {
+    background-color: aliceblue;
+  }
+  td, th {
+    border: 1px solid #ddd;
+    
+  }
+  
+  td:hover {
+    background-color: aquamarines;
+  }
